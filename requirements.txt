@@ -7,7 +7,7 @@ alembic==1.15.2
 altgraph==0.17.4
 amqp==5.3.1
 annotated-types==0.7.0
-# ansicon==1.89.0
+ansicon==1.89.0
 antlr4-python3-runtime==4.9.3
 anyio==4.4.0
 appdirs==1.4.4
@@ -272,7 +272,7 @@ pytube==15.0.0
 pytweening==1.2.0
 pytz==2024.1
 PyWavelets==1.8.0
-# pywin32==306
+pywin32==306
 pywin32-ctypes==0.2.3
 pywinpty==2.0.13
 PyYAML==6.0.2
