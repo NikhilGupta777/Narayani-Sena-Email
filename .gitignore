@@ -1,0 +1,4 @@
+# filepath: c:\Users\g_n-n\Desktop\email-automation\.gitignore
+.env
+__pycache__/
+*.pyc
